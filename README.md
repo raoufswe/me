@@ -1,5 +1,5 @@
 <h1 align="center">
-  Raouf Fathi - Portfolio
+  Raouf - Portfolio
 </h1>
 
 This is my portfolio to serve as a reference point for a lot of projects I've worked on and things I've written.
