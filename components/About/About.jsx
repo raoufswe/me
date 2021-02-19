@@ -37,7 +37,7 @@ const About = () => (
         </div>
         <CenteredContainer>
           <img
-            src="https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/89930533_3106637046023710_9064523105203912704_o.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE4ltkgbqKk5WnxG4BHE2YmjwyTgxwdLDSPDJODHB0sNHcLkT1UDchJPzh19pM17S-ipx1pUO08uFbWiRLoRdrm&_nc_ohc=Vlncm64EApwAX-4AX6i&_nc_ht=scontent.fkul13-1.fna&oh=4045c830e295927a0edbc09e024233a2&oe=5FF6169F"
+            src="https://i.imgur.com/fXtZucP.jpeg"
             className="my-picture"
           />
         </CenteredContainer>
